@@ -1,5 +1,3 @@
-![logo](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2928049956,3976845960&fm=27&gp=0.jpg)
-
 ![Gitee license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # `awesome-windows-kernel-security-development`
